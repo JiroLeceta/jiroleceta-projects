@@ -12,7 +12,7 @@ export const products = [
     category: "home",
     description:
       "Thick, durable natural coconut coir doormat with non-slip rubber backing. Ideal for entryways and patios. Naturally anti-bacterial and eco-friendly.",
-    image: "/public/images/doormat.webp",
+    image: "/images/doormat.webp",
     badge: "bestseller",
     stock: 45,
     rating: 4.8,

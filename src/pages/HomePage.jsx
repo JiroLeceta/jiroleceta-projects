@@ -69,7 +69,7 @@ export default function HomePage() {
             <div className="about-visual" aria-hidden="true">
               <div className="about-img-frame">
                 <img
-                  src="/images/coir.jpg"
+                  src={`${import.meta.env.BASE_URL}images/coir.jpg`}
                   alt="Coconut coir fiber — natural and sustainable"
                   loading="lazy"
                 />

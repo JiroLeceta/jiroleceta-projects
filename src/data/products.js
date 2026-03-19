@@ -42,7 +42,7 @@ export const products = [
     category: "garden",
     description:
       "Biodegradable coir pots for seedlings and transplants. Promotes healthy root development and reduces transplant shock.",
-    image: "/images/pots.jpg",
+    image: `${BASE}images/pots.jpg`,
     badge: "trending",
     stock: 150,
     rating: 4.7,
@@ -58,7 +58,7 @@ export const products = [
     category: "garden",
     description:
       "Woven coir mat for garden mulching. Controls weeds naturally, retains moisture, and improves soil fertility as it decomposes.",
-    image: "/images/mulchmat.webp",
+    image: `${BASE}images/mulchmat.webp`,
     badge: "new",
     stock: 200,
     rating: 4.5,
@@ -74,7 +74,7 @@ export const products = [
     category: "construction",
     description:
       "Heavy-duty coir blanket for slope stabilization and erosion control. Biodegradable and effective for up to 3 years.",
-    image: "/images/blanket.jpg",
+    image: `${BASE}images/blanket.jpg`,
     badge: "bestseller",
     stock: 30,
     rating: 4.9,
@@ -90,7 +90,7 @@ export const products = [
     category: "home",
     description:
       "Handcrafted large hanging basket made from natural coconut coir fiber. Perfect for ferns, succulents, and trailing plants.",
-    image: "/images/planter.webp",
+    image: `${BASE}images/planter.webp`,
     badge: "trending",
     stock: 35,
     rating: 4.7,
@@ -106,7 +106,7 @@ export const products = [
     category: "home",
     description:
       "Orthopedic coir fiber mattress for firm, supportive sleep. 100% natural, hypoallergenic, and resistant to dust mites.",
-    image: "/images/mattress.webp",
+    image: `${BASE}images/mattress.webp`,
     badge: "bestseller",
     stock: 10,
     rating: 4.8,
@@ -122,7 +122,7 @@ export const products = [
     category: "garden",
     description:
       "Lightweight natural coir twine for plant training, bundling, and decorative crafts. Biodegradable and soil-friendly.",
-    image: "/images/twine.jpg",
+    image: `${BASE}images/twine.jpg`,
     badge: null,
     stock: 120,
     rating: 4.4,
@@ -138,7 +138,7 @@ export const products = [
     category: "construction",
     description:
       "Woven coir geo-textile for road sub-base reinforcement, drainage filtration, and coastal protection.",
-    image: "/images/geotextile.webp",
+    image: `${BASE}images/geotextile.webp`,
     badge: "new",
     stock: 15,
     rating: 4.9,
@@ -154,7 +154,7 @@ export const products = [
     category: "garden",
     description:
       "Activated coconut shell charcoal for garden soil amendment. Improves drainage, aeration, and beneficial microbial activity.",
-    image: "/images/charcoal.webp",
+    image: `${BASE}images/charcoal.webp`,
     badge: "trending",
     stock: 75,
     rating: 4.6,
@@ -170,7 +170,7 @@ export const products = [
     category: "garden",
     description:
       "Reusable coir fiber grow bags for vegetables, herbs, and small shrubs. Excellent drainage and air pruning for healthy roots.",
-    image: "/images/growbags.webp",
+    image: `${BASE}images/growbags.webp`,
     badge: "new",
     stock: 60,
     rating: 4.5,
@@ -186,7 +186,7 @@ export const products = [
     category: "crafts",
     description:
       "Decorative coir wall panel for interior design. Creates a natural, textured look for accent walls, crafts, and art installations.",
-    image: "/images/wallpanel.avif",
+    image: `${BASE}images/wallpanel.avif`,
     badge: "trending",
     stock: 90,
     rating: 4.7,
@@ -202,7 +202,7 @@ export const products = [
     category: "garden",
     description:
       "Premium compressed coco peat block — expands to 70 L of growing medium. Ideal for hydroponics, seed starting, and soil conditioning.",
-    image: "/images/cocopeat.jpg",
+    image: `${BASE}images/cocopeat.jpg`,
     badge: "bestseller",
     stock: 110,
     rating: 4.9,
@@ -218,7 +218,7 @@ export const products = [
     category: "crafts",
     description:
       "Complete DIY craft kit with coir rope, twine, and fiber sheets. Create baskets, wall art, plant hangers, and more.",
-    image: "/images/craftkit.jpg",
+    image: `${BASE}images/craftkit.jpg`,
     badge: "new",
     stock: 40,
     rating: 4.5,
